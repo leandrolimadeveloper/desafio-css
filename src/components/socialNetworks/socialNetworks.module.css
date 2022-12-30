@@ -1,0 +1,35 @@
+footer {
+    border-top: 1px solid var(--gray-600);
+}
+
+.socialNetworksTitle {
+    margin-top: 0.875rem;
+    margin-bottom: 0.875rem;
+
+    font-size: 2rem;
+    font-family: 'Courier New', Courier, monospace;
+
+    text-align: center;
+
+    color: white;
+}
+
+.socialNetworks {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.iconsGroup {
+    display: flex;
+
+    background-color: rgba(15, 15, 202, 0.151);
+
+    padding: 0.625rem;
+    border-radius: 6px;
+}
+
+.icons {
+    margin: 0.625rem;
+    list-style-type: none;
+}

@@ -1,0 +1,23 @@
+.container {
+    margin: 20px auto;
+    
+    border: 1px solid gray;
+    width: 900px;
+    padding: 40px;
+    border-radius: 6px;
+}
+
+.challengeTitle {
+    text-align: center;
+    color: white;
+
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 3.375rem;
+    -webkit-font-smoothing: antialiased;
+}
+
+.numberChallengeTitle {
+    font-size: 2.5rem;
+    color: white;
+    text-align: center;
+}
